@@ -11,6 +11,10 @@ Arduino Nano used.
 LiquidCrystal   lcd(8,  7,  6 , 5,  4,  3 );
 ```
 
+![hardware.PNG](hardware.PNG)  
+
+
+
 ### result
 char(175) is displayed as ohm synbol  
 ![AVR_LCD44780_PC1602V2-P6_ohm_symbol.png](AVR_LCD44780_PC1602V2-P6_ohm_symbol.png)  
