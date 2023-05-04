@@ -11,8 +11,12 @@ Arduino Nano used.
 LiquidCrystal   lcd(8,  7,  6 , 5,  4,  3 );
 ```
 
+### LCD interface & wiring diagram  
 ![hardware.PNG](hardware.PNG)  
 
+
+### complete wiring  
+![final_wiring.PNG](final_wiring.PNG)  
 
 
 ### result
