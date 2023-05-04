@@ -14,6 +14,12 @@ LiquidCrystal   lcd(8,  7,  6 , 5,  4,  3 );
 ### LCD interface & wiring diagram  
 ![hardware.PNG](hardware.PNG)  
 
+### Nano pinout  
+ref, https://www.etechnophiles.com/arduino-nano-every-pinout-specifications-schematic-datasheet/  
+![nano_pinout.PNG](nano_pinout.PNG)  
+
+
+
 
 ### complete wiring  
 ![final_wiring.PNG](final_wiring.PNG)  
